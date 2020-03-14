@@ -8,7 +8,7 @@ modify to enable it to run on cygwin / msys2
 
 # prerequisite
 
-script requires (jq)[https://stedolan.github.io/jq/] and (golang)[https://golang.org/] installed
+script requires [jq](https://stedolan.github.io/jq/) and [golang](https://golang.org/) installed
 
 ## install
 ### cygwin
